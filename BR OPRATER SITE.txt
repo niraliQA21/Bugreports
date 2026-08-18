@@ -1,0 +1,26 @@
+            * FUNCTIONAL BUGS OF REGISTRATION *
+
+1.In register page min & max length of name folder(1 To 255) (BVA)
+2.In register page numeric values (sc) does not allow in name folder.
+3.In register page invalid email id name not allow in email id folder.
+4.In register page numeric symbols does not allow in name folder. 
+5.In register page min & max length of password folder.(BVA)
+6.In register page SC () allow in emailid folder.
+7.In register page trim function does not allow in name folder.
+
+            * FUNCTIONAL BUGS OF SPACE FORM *
+
+1.In space form min & max length of space name.
+2.In space form min & max length of domain.
+3.In space form special character,numeric values,numeric symbols does not allow in space & domain feild.
+4.In space form trim function does not allow in space & domain feild.
+5.In space form does not allow invalid domain for domain feild.
+6.In space form min & max length of choose file feild.
+7.In space form choose file allow all formats of file.
+8.In space form should allow successfully redirect to register & login feild.
+
+
+                    
+
+
+
